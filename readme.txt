@@ -12,7 +12,7 @@ This plugin allows your visitors to tweet a phrase/quote from your article.
 
 == Description ==
 
-This plugin is mandatory if you want your visitors to tweet some quotes of your articles. After the user clicks on the article a portion of it gets selected and offerred to be tweeted. The user can edit the message befere tweeting it. A link to the original article is included in the tweet too.
+This plugin is mandatory if you want your visitors to tweet some quotes of your articles. After the user clicks on the article a portion of it gets selected and offerred to be tweeted. The user can edit the message before tweeting it. A link to the original article is included in the tweet too.
 
 
 Demo
